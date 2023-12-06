@@ -1,3 +1,7 @@
+;;;; SPDX-FileCopyrightText: 1999 Oleg Kiselyov <oleg@okmij.org>
+;;;;
+;;;; SPDX-License-Identifier: MIT
+
 ;				Read-time _apply_
 ;
 ; See my message posted on comp.lang.scheme, Tue Apr 13 03:44:41 1999,

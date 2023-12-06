@@ -1,3 +1,7 @@
+;;;; SPDX-FileCopyrightText: 1999 Oleg Kiselyov <oleg@okmij.org>
+;;;;
+;;;; SPDX-License-Identifier: MIT
+
 ; 		Validating Read-time Applications (reader-constructors)
 ;
 ; Instructions:
