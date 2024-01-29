@@ -1,6 +1,6 @@
-;;;; SPDX-FileCopyrightText: 1999 Oleg Kiselyov <oleg@okmij.org>
-;;;;
-;;;; SPDX-License-Identifier: MIT
+; SPDX-FileCopyrightText: 1999 Oleg Kiselyov
+;
+; SPDX-License-Identifier: MIT
 
 ; Validate implementation of cond-expand as a read-time application
 ; See cond-expand.scm for all the details.

@@ -1,6 +1,6 @@
-;;;; SPDX-FileCopyrightText: 1999 Oleg Kiselyov <oleg@okmij.org>
-;;;;
-;;;; SPDX-License-Identifier: MIT
+; SPDX-FileCopyrightText: 1999 Oleg Kiselyov
+;
+; SPDX-License-Identifier: MIT
 
 ;		Implementing SRFI-0 as a Read-Time Application
 ;
@@ -53,7 +53,7 @@
         (and (not (null? req-list))
           (or (eval-feature-req? (car req-list))
             (eval-or-clause? (cdr req-list)))))
- 
+
       (define (eval-not-clause? req)
         (not (eval-feature-req? req)))
 
