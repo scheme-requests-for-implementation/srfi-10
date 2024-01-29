@@ -1,3 +1,7 @@
+;;;; SPDX-FileCopyrightText: 1999 Oleg Kiselyov <oleg@okmij.org>
+;;;;
+;;;; SPDX-License-Identifier: MIT
+
 ;		Implementing SRFI-0 as a Read-Time Application
 ;
 ; See
